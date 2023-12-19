@@ -1,25 +1,119 @@
-<h1 align="center">Hi 👋, I'm Sujit Sampat Sakore</h1>
-<h3 align="center">I am a Competitive Programmer and a WEB Developer and a Data Scientist.</h3>
+<h1 align="center">Hello World, 👋 I'm Sujit Sampat Sakore</h1>
+<table style="width:100%">
+  <tr>
+    <td style="width:50%; text-align:center;">
+      <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="GIF" style="width:100%; object-fit: cover; height:300px;">
+    </td>
+    <td style="width:50%; text-align:center;">
+      <img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" alt="GIF" style="width:100%; object-fit: cover; height:300px;">
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="coding" width="400" src=https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif>
+<h2 align="center">I am a Competitive Programmer and a WEB Developer and a Data Scientist.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsakore&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsakore" /> </p>
+# 🌐 About Me:
+<table style="width:100%; display: flex; align-items: center; justify-content: space-between;">
+  <tr>
+    <td style="width:70%; padding-right: 20px;">
+      <p>
+        I am a second year undergraduate in computer science and engineering at NIT Nagaland.<br>
+	I am a Competitive Programmer, WEB Developer and a Data Scientist.<br>
+	I am a curious person and I always look forward to learning new things.<br><br>
+      </p>
+    </td>
+    <td style="width:30%;">
+      <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="GIF" style="width:100%">
+    </td>
+      
+  </tr>
+</table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitsakore" alt="sujitsakore" /></a> </p>
-
-- 📫 How to reach me **sujitsakore33@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujitsakore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujitsakore" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sujit_sakore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sujit_sakore" height="30" width="40" /></a>
+# 🌐 Socials:
+<p style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.linkedin.com/in/sujitsakore">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+    <a href="https://www.linkedin.com/in/sujitsakore">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+    <a href="https://www.linkedin.com/in/sujitsakore/">
+        <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+<table align="center">
+<tr>
+<td>Language</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</a> 
+</td>
+</tr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitsakore&show_icons=true&locale=en&layout=compact" alt="sujitsakore" /></p>
+<tr>
+<td>Development</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</td>
+</tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitsakore&show_icons=true&locale=en" alt="sujitsakore" /></p>
+<tr>
+<td>CSS Frameworks</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+ </td>
+</tr>
+<tr>
+<td>Frontend Framework</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=react,angular" />
+  </a>
+ </td>
+</tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitsakore&" alt="sujitsakore" /></p>
+<tr>
+<td>Backend Framework</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+   </a>
+</td>
+</tr>
+
+<td>Database</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=mysql,sql" />
+   </a>
+</td>
+</tr>
+
+<tr>
+<td>Hosting</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=github,aws" />
+  </a>
+</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td> <a href="https://github.com/SujitSakore" >
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</td>
+</tr>
+</table>
+
+# 📊 GitHub Stats:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitSakore&theme=dark&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SujitSakore&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
+</p>
