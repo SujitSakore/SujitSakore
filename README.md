@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-<h2 align="center">I am a Competitive Programmer and a WEB Developer and a Data Scientist.</h2>
+<h2 align="center">I am a Competitive Programmer, WEB Developer and a Data Scientist.</h2>
 
 # 🌐 About Me:
 <table style="width:100%; display: flex; align-items: center; justify-content: space-between;">
@@ -34,10 +34,10 @@
     <a href="https://www.linkedin.com/in/sujitsakore">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width:80px; height:80px;">
     </a>
-    <a href="https://www.linkedin.com/in/sujitsakore">
+    <a href="sujitsakore@gmail.com">
         <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="LinkedIn" style="width:80px; height:80px;">
     </a>
-    <a href="https://www.linkedin.com/in/sujitsakore/">
+    <a href="https://twitter.com/Sujit_Sakore">
         <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="LinkedIn" style="width:80px; height:80px;">
     </a>
 </p>
