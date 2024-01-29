@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="center" height="30" width="" />
 </div>  
   
-# 💫 About Me:
+## 💫 About Me:
 - 🔭 I am a second year undergraduate in computer science and engineering at NIT Nagaland.
 
 
@@ -28,7 +28,7 @@
 <br/>  
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">  
  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
@@ -47,7 +47,7 @@
 
 <br/>  
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitSakore&theme=dark&hide_border=false" /><br/>
