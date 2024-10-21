@@ -16,13 +16,13 @@
     </div>  
      
   ## 💫 About Me:
-  - 🔭 I am a third year undergraduate in computer science and engineering at NIT Nagaland.
+- 🔭 I am a third year undergraduate in computer science and engineering at NIT Nagaland.
     
     
-    - 🌱  I am a Competitive Programmer, WEB Developer and a Data Scientist.
+- 🌱  I am a Competitive Programmer, WEB Developer and a Data Scientist.
       
     
-    - ⚡  I am a curious person and I always look forward to learning new things
+- ⚡  I am a curious person and I always look forward to learning new things
       
     
     <br/>  
