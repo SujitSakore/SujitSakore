@@ -15,7 +15,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="center" height="30" width="" />
     </div>  
      
-  ## 💫 About Me:
+     
+## 💫 About Me:
 - 🔭 I am a third year undergraduate in computer science and engineering at NIT Nagaland.
     
     
@@ -27,8 +28,8 @@
     
     <br/>  
     
-    
-    ## 💻 Tech Stack:
+
+  ## 💻 Tech Stack:
     <div align="center">  
      <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
     <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
@@ -49,8 +50,8 @@
     </div>  
     
     <br/>  
-    
-    ## 📊 GitHub Stats:
+
+  ## 📊 GitHub Stats:
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitSakore&theme=dark&hide_border=false" /><br/>
@@ -58,7 +59,7 @@
     </p> 
     
     
-    ## 🌐 Contact Me:
+  ## 🌐 Contact Me:
     <div align="center">
     <a href="https://www.instagram.com/sujit_sakore_03/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="center" height="70" width="70" />  </a>
     <a href="https://discordapp.com/users/sujitsakore"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" align="center" height="70" width="70" />  </a>
