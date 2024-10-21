@@ -17,20 +17,19 @@
      
      
 ## 💫 About Me:
-- 🔭 I am a third year undergraduate in computer science and engineering at NIT Nagaland.
+  - 🔭 I am a third year undergraduate in computer science and engineering at NIT Nagaland.
     
     
-- 🌱  I am a Competitive Programmer, WEB Developer and a Data Scientist.
+  - 🌱  I am a Competitive Programmer, WEB Developer and a Data Scientist.
       
     
-- ⚡  I am a curious person and I always look forward to learning new things
+  - ⚡  I am a curious person and I always look forward to learning new things.
+    
       
-    
-    <br/>  
-    
+   <br/>        
 
-  ## 💻 Tech Stack:
-    <div align="center">  
+## 💻 Tech Stack:
+<div align="center">  
      <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
     <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
     <a href="https://www.java.com//" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
@@ -49,10 +48,10 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="50" /></a> 
     </div>  
     
-    <br/>  
+<br/>  
 
-  ## 📊 GitHub Stats:
-    <p align="center">
+## 📊 GitHub Stats:
+<p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitSakore&theme=dark&hide_border=false" /><br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
@@ -60,37 +59,37 @@
     
     
   ## 🌐 Contact Me:
-    <div align="center">
+<div align="center">
     <a href="https://www.instagram.com/sujit_sakore_03/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="center" height="70" width="70" />  </a>
     <a href="https://discordapp.com/users/sujitsakore"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" align="center" height="70" width="70" />  </a>
     <a href="https://www.linkedin.com/in/sujitsakore/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="center" height="70" width="70" /></a>
     </div>  
       
     
-    <br/>
+<br/>
     
-    <div align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" height="10" width="" />
     </div>  
       
-    <div align="center">
+ <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" height="50" width="" />
     </div>   
      
     
-    <br/>  
+ <br/>  
     <div align="center">
     <img src="https://komarev.com/ghpvc/?username=SujitSakore&&style=flat-square" align="center" />
     </div>  
       
     
-    <div align="center">
+<div align="center">
     <a href="mailto:sujitsakore33@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" align="center" height="60" width="" /></a>
     </div>  
       
       
     
-    <br/> 
+<br/> 
     <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" height="10" width="" />
     </div>
