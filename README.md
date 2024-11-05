@@ -54,7 +54,7 @@
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitSakore&theme=dark&hide_border=false" /><br/>
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitSakore&layout=compact&theme=highcontrast" alt=SujitSakore />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitSakore&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </p> 
     
     
