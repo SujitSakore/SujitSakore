@@ -17,7 +17,7 @@
      
      
 ## 💫 About Me:
-  - 🔭 I am a third year undergraduate in computer science and engineering at NIT Nagaland.
+  - 🔭 I am a final year undergraduate in computer science and engineering at NIT Nagaland.
     
     
   - 🌱  I am a Competitive Programmer, WEB Developer and a Data Scientist.
