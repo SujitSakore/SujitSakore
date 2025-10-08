@@ -24,8 +24,7 @@
       
     
   - ⚡  I am a curious person and I always look forward to learning new things.
-    
-      
+          
    <br/>        
 
 ## 💻 Tech Stack:
